@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-21T23:41:33.682Z" agent="5.0 (X11)" etag="zuf16ihjJ86byoVcspvp" version="17.1.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-03-21T23:42:08.470Z" agent="5.0 (X11)" etag="wWJ54E0ubYGO_BVDqX2v" version="17.1.3" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Everything">
     <mxGraphModel dx="1102" dy="1763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -390,9 +390,6 @@
         </mxCell>
         <mxCell id="9owP8-Ct2SnFZB4wZjla-0" value="&lt;div&gt;*Own* &lt;br&gt;&lt;/div&gt;&lt;div&gt;Gallery page&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#FF0000;" vertex="1" parent="94vNi-HU1PBsABV60xrB-1">
           <mxGeometry x="662" y="189" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="dqLkqY0LG7MRmHms-CL_-0" value="Image container component" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#000000;" vertex="1" parent="94vNi-HU1PBsABV60xrB-1">
-          <mxGeometry x="250" y="391" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FcXwIHN7FmCj-YFU9cbP-0" value="input/output" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="94vNi-HU1PBsABV60xrB-1">
           <mxGeometry x="900" y="124" width="120" height="60" as="geometry" />
